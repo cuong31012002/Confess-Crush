@@ -10,11 +10,11 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Yêu anh hihi',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'em yêu anh nhiều <33333333',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    btnReply: 'tình yêu xét đánh <3',
+    reply: 'yêu em <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'nhanh qua bên này với anh nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/cuongg20cm
 }
