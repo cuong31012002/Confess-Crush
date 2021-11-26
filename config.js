@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
+     titleWeb: "Tiêu đề web",
     introTitle: 'Tâm',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -8,13 +8,13 @@ const CONFIG = {
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Yêu anh hihi',
+    btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'tình yêu xét đánh <3',
-    reply: 'yêu em <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'nhanh qua bên này với anh nha.',
+    btnReply: 'Gửi cho bạn <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    messDesc: 'Nhanh qua đây với anh nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/cuongg20cm
+    messLink: 'https://www.facebook.com/cuongg20cm/' 
 }
